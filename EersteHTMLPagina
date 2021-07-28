@@ -8,7 +8,7 @@
        <!-- hier zet je de code in de body tags-->
        <h1> Dit is Header 1</h1>
        <h2> Dit is Header 2</h2>
+       <hr> </hr>
        <p>Dit is een paragraaf</p>
-       <hr> Is dit een lijn? </hr>
     </body>
 </html>
